@@ -10,6 +10,14 @@ A comprehensive lateral control comparison suite for autonomous vehicle path fol
 
 This project simulates a vehicle in the CARLA simulator and evaluates the performance of three different lateral control strategies for path following. The vehicle receives target waypoints, and each controller generates steering commands to minimize lateral and heading errors.
 
+### Quick Video
+
+<a href="https://www.youtube.com/watch?v=4Kh8L4rUMD0" target="_blank">
+  <img src="https://img.youtube.com/vi/4Kh8L4rUMD0/maxresdefault.jpg" alt="Lateral Control Comparison - PP vs LQR vs MPC" width="600">
+</a>
+
+Click the image above or [watch on YouTube](https://www.youtube.com/watch?v=4Kh8L4rUMD0) to see a quick video of the simulation.
+
 ## Features
 
 - **Three Control Algorithms**: Compare Pure Pursuit, LQR, and MPC controllers
